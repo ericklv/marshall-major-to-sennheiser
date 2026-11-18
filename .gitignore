@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+prototypes/
+# third-party product images, kept local
+original_parts/web_reference/
